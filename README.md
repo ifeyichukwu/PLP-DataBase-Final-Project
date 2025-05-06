@@ -78,5 +78,5 @@ This is a CRUD (Create, Read, Update, Delete) API built using **FastAPI** and co
 ### 🧪 How to Run Locally
 
 #### 1. Clone the Repository
-      git clone https://github.com/yourusername/plp-week8-assignment.git
+      git clone https://github.com/ifeyichukwu/plp-week8-assignment.git
       cd plp-week8-assignment/question2-api
