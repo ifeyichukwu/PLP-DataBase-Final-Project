@@ -1,4 +1,4 @@
-# 🧾 PLP Week 8 Assignment – Database Management & CRUD API
+# 🧾 PLP Week 8 Assignment – Database Management
 
 ## 🧠 Question 1: Market Vendor Inventory System (MySQL Only)
 ### 📌 Project Title
